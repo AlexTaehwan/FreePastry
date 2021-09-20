@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pastry">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/umltesting/strongswan-testing/testing/pastry.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

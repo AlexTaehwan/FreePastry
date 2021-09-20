@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FreePastry.iml" filepath="$PROJECT_DIR$/FreePastry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/email/email.iml" filepath="$PROJECT_DIR$/email/email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pastry/pastry.iml" filepath="$PROJECT_DIR$/pastry/pastry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pastry/pretty/pretty.iml" filepath="$PROJECT_DIR$/pastry/pretty/pretty.iml" />
+    </modules>
+  </component>
+</project>

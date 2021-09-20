@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pastry/pretty/lib/JRefactoryModule.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pastry/pretty/lib/JavaStyle.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pastry/pretty/lib/jrefactory.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -131,7 +131,7 @@ public class MyScribeClient implements ScribeClient, Application {
   public void deliver(Id id, Message message) {
     if (message instanceof PublishContent) {
       sendMulticast();
-      sendAnycast();
+      // sendAnycast();
     }
   }
   
